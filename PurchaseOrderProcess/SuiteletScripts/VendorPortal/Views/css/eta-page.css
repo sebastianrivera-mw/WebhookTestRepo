@@ -1,0 +1,152 @@
+/* Vendors Select */
+.eta-vendors-select {
+    font-size: 12px;
+}
+
+.eta-vendors-select #vendors-select {
+    width: 240px;
+    height: 24px;
+    margin-bottom: 20px;
+}
+
+/* Buttons Area */
+.eta-list-view #buttons-area {
+    margin-bottom: 0px;
+}
+
+/* Copy To All */
+.copy-to-all {
+    font-size: 12px;
+}
+
+#copy-to-all-shipment-order-select {
+    width: 120px;
+    height: 24px;
+    margin-right: 20px;
+}
+
+#copy-to-all-date {
+    width: 132px;
+    margin-right: 20px;
+}
+
+.copy-to-all-btn {
+    margin: 0;
+    font-size: 14px;
+    color: white;
+    border: 1px solid #5a5a5a;
+    background-color: #5a5a5a;
+}
+
+.copy-to-all-btn:hover {
+    color: #fff;
+    background-color: #808080;
+}
+
+.copy-to-all p {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+/* Table */
+.eta-table th {
+    font-size: 12px !important;
+}
+
+.eta-table td {
+    font-size: 12px !important;
+    padding: 10px 5px !important;
+}
+
+.eta-table .circle-notification-wrapper {
+    position: relative;
+    padding: 0 !important;
+}
+
+.eta-table .circle-notification {
+    background-color: red;
+    color: #fff;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+    text-align: center;
+    font-size: 10px;
+    line-height: 15px;
+    font-weight: bold;
+}
+
+.eta-table .view-order-link {
+    margin-left: 12px;
+    padding: 7px 15px !important;
+}
+
+.eta-table .view-order-link:after {
+    margin-left: 7px !important;
+}
+
+.eta-table .item-name span {
+    display: block;
+    max-width: 110px;
+    white-space: normal;
+    margin: auto;
+}
+
+.eta-table .location span {
+    display: block;
+    max-width: 110px;
+    white-space: normal;
+    margin: auto;
+}
+
+.eta-table button.copy-line {
+    margin: 0;
+    font-size: 12px;
+    color: white;
+    border: 1px solid #5a5a5a;
+    background-color: #5a5a5a;
+}
+
+.eta-table button.copy-line:hover {
+    color: #fff;
+    background-color: #808080;
+}
+
+.eta-table .current-ready-date-input {
+    width: 132px;
+}
+
+.eta-table .current-departure-date-input {
+    width: 132px;
+}
+
+.eta-table .delay-type select {
+    width: 130px;
+    height: 24px;
+}
+
+.eta-table .notes textarea {
+    padding: 5px;
+}
+
+/* Add for Redirect Button to Create ISN*/
+.btn-create-isn-link {
+    padding: 7px 40px;
+    background-color: #5a5a5a;
+    color: #fff;
+    border-radius: 0.25rem;
+}
+
+.btn-create-isn-lin:after {
+    content: "\f0da";
+    margin-left: 10px;
+    font-family: FontAwesome;
+}
+
+.btn-create-isn-link:hover {
+    color: #fff;
+    background-color: #808080;
+    text-decoration: none;
+}

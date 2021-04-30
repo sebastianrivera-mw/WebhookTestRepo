@@ -1,0 +1,101 @@
+/* Global */
+body {
+    font-family: Verdana, sans-serif;
+}
+
+i.fas,
+i.far {
+    font-family: FontAwesome;
+    font-style: normal;
+}
+
+.body {
+    width: 97%;
+}
+
+/* Inputs */
+input[type="file"] {
+    font-size: 12px;
+    margin: 10px 0;
+}
+
+.file-input-label {
+    margin-bottom: 0;
+    margin-top: 0.5rem;
+}
+
+/* Circle icons */
+.circle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.circle.pink {
+    background-color: #fad2d2;
+}
+
+.circle i {
+    font-family: FontAwesome;
+    font-style: normal;
+    font-size: 60px;
+}
+
+.circle .tov-logo {
+    font-family: Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+/* Back Button */
+.go-back-link {
+    font-size: 14px;
+    border: 1px solid #5a5a5a;
+    color: #5a5a5a;
+}
+
+.go-back-link:before {
+    content: "\f0a8";
+    margin-right: 10px;
+    font-family: FontAwesome;
+}
+
+.go-back-link:hover {
+    color: #808080;
+    text-decoration: none;
+}
+
+/* Category Page */
+.category-title-wrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 15px;
+}
+
+.category-title-wrapper.parts-orders {
+    border: none;
+}
+
+.circle.category-title {
+    height: 60px;
+    width: 60px;
+    margin: 0 20px;
+}
+
+.circle.category-title i {
+    font-size: 26px;
+}
+
+.circle.category-title .tov-logo {
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
