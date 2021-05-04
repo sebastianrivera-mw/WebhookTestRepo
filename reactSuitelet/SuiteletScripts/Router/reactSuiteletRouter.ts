@@ -3,7 +3,7 @@
  * @NScriptType Suitelet
  * @NModuleScope SameAccount
  * @author Midware
- * @developer Gerardo Zeledón
+ * @developer Gerardo Zeled??n
  * @contact contact@midware.net
  */
 
@@ -57,3 +57,4 @@ function handleError(pError: Error) {
 
   log.error({ title: "Stack", details: JSON.stringify(pError) });
 }
+

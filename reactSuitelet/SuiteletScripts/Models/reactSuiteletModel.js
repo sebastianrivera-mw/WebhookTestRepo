@@ -1,6 +1,6 @@
 /**
  * @author Midware
- * @developer Gerardo Zeledón
+ * @developer Gerardo Zeled??n
  * @contact contact@midware.net
  */
 define(["require", "exports", "N/file"], function (require, exports, file) {
@@ -12,3 +12,4 @@ define(["require", "exports", "N/file"], function (require, exports, file) {
     }
     exports.getAppFile = getAppFile;
 });
+

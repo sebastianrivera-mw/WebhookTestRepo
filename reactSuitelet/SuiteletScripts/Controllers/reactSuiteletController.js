@@ -9,3 +9,4 @@ define(["require", "exports", "../Views/reactSuiteletView", "../Models/reactSuit
     }
     exports.getMainScript = getMainScript;
 });
+

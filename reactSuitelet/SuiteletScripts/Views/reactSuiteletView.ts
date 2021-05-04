@@ -1,6 +1,6 @@
 /**
  * @author Midware
- * @developer Gerardo Zeledón
+ * @developer Gerardo Zeled??n
  * @contact contact@midware.net
  */
 
@@ -47,3 +47,4 @@ export function mainView() {
   `;
   return pageCode;
 }
+

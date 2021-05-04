@@ -1,6 +1,6 @@
 /**
  * @author Midware
- * @developer Gerardo Zeledón
+ * @developer Gerardo Zeled??n
  * @contact contact@midware.net
  */
 import * as log from "N/log";
@@ -19,3 +19,4 @@ export function getMainPage() {
 export function getMainScript() {
   return model.getAppFile();
 }
+

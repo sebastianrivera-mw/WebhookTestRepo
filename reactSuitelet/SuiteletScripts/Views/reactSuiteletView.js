@@ -1,6 +1,6 @@
 /**
  * @author Midware
- * @developer Gerardo Zeledón
+ * @developer Gerardo Zeled??n
  * @contact contact@midware.net
  */
 define(["require", "exports", "N/url", "N/log", "N/runtime"], function (require, exports, url, log, runtime) {
@@ -18,3 +18,4 @@ define(["require", "exports", "N/url", "N/log", "N/runtime"], function (require,
     }
     exports.mainView = mainView;
 });
+
