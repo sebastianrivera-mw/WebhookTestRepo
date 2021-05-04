@@ -37,3 +37,4 @@ export const EMAIL_MODULES_CUSTOM_RECORD = {
     FILTER_BY_LOCATION: "custrecord_mw_require_location",
     SHOW_SEND_ATTACHMENTS_COLUMN: "custrecord_mw_require_send_attachments",
 };
+

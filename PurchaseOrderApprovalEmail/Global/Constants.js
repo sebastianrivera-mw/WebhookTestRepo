@@ -35,3 +35,4 @@ define(["require", "exports"], function (require, exports) {
         SHOW_SEND_ATTACHMENTS_COLUMN: "custrecord_mw_require_send_attachments",
     };
 });
+
