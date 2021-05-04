@@ -1,6 +1,6 @@
 /**
  * @author Midware
- * @developer Gerardo Zeled??n
+ * @developer Gerardo Zeledón
  * @contact contact@midware.net
  */
 define(["require", "exports", "N/file"], function (require, exports, file) {

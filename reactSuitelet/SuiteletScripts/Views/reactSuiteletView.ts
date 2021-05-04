@@ -1,6 +1,6 @@
 /**
  * @author Midware
- * @developer Gerardo Zeled??n
+ * @developer Gerardo Zeledón
  * @contact contact@midware.net
  */
 
